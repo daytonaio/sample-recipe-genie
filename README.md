@@ -13,7 +13,7 @@ Recipe Genie is your go-to app for exploring delicious recipes, powered by TheMe
 2. **Create the Workspace**:
 
    ```bash
-   daytona create https://github.com/kom-senapati/Recipe-Genie-Daytona.git
+   daytona create https://github.com/daytonaio/sample-recipe-genie.git
    ```
 
 3. **Start the Application**:
